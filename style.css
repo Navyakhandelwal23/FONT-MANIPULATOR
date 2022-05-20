@@ -1,0 +1,32 @@
+.heading{
+    margin: 0px;
+    font-size: 30px;
+    width: 100%;
+    background-color: rgb(255, 192, 250);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.note{
+    font-size:15px;
+    color:rgb(187, 0, 156);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.copy_right_footer{
+    text-align:center;
+    background-color: rgb(167, 237, 255);
+    bottom: 0;
+    line-height: 3;
+    position: fixed;
+    width: 100%;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px plum
+}
+
+body{
+    background-color: #f9ffa2;
+}
