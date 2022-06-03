@@ -33,7 +33,8 @@ function draw(){
     document.getElementById("square_side").innerHTML= "width and hieght of the square is "+difference+"px"
     fill("pink")
     stroke("pink")
-    square(nosex,nosey,difference)
+    textSize(difference)
+text("navya",nosex, nosey)
 }
 
 
